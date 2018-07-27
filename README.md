@@ -21,3 +21,4 @@ You can test newly created method in a C# interactive window just like that:
     "Pijamalı hasta yağız şoföre çabucak güvendi."
     > 
 ```
+TODO: AES method is not implemented yet.
