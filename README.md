@@ -1,5 +1,5 @@
 # EncryptedTextMethodCreator
-A simple program to embed strings into C# code that cannot be changed with hex editors.
+I love codes that generate codes. This is a simple utility to create C# methods for embedding strings into C# code that cannot be easily changed with hex editors. Also the embedded text cannot be recovered by utilities like 'strings' etc.
 
 
 You can test newly created method in a C# interactive window just like that: 
